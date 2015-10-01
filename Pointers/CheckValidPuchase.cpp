@@ -5,7 +5,6 @@ void GetValidPurchase(InventoryItem inventoryList[], InventoryItem purchasedItem
 {
 	InventoryItem purchasItem;
 	int purchaseAmount = 0;
-	bool validPuchase = false;
 	
 
 	
