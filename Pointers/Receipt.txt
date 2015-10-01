@@ -1,0 +1,15 @@
+
+Johns Sprting Good's
+
+	RECEIPT
+
+Item                          Quantity
+
+1. - Nike Basketball Shoes    2
+2. - Brooks running shoes     2
+3. - Asics running shoes      3
+
+
+SubTotal        497.64
+Tax               41.06
+Total             538.70
